@@ -139,4 +139,18 @@ El comando **`kill`** cierra aplicaciones en Linux.
 
 ## 23. Comando **`ping`** 🌐
 
-El comando **`ping`** verifica la conexión a
+El comando **`ping`** verifica la conexión a un servidor o sitio web.
+
+## 24. Comando **`grep`** 🔍
+
+El comando **`grep`** busca texto en archivos.
+
+- **`grep -w horario /home/archivo1.txt`**: Busca la palabra 'horario' exacta.
+
+## 25. Comando **`wget`** 🌐
+
+El comando **`wget`** descarga archivos desde URL o FTP.
+
+- **`wget https://url-ejemplo.com/archivo1.txt`**: Descarga archivo1.txt.
+- **`wget https://url-ejemplo.com/*.txt`**: Descarga todos los archivos .txt.
+

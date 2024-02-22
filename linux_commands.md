@@ -1,5 +1,7 @@
 # Comandos de Terminal en Linux 🐧💻
 
+Estos son algunos de los comandos más habituales que puedes necesitar a la hora de trabajar una terminal Linux.
+
 ## 1. Comando **`ls`** 📂
 
 El comando **`ls`** se utiliza para listar los archivos y directorios dentro de un directorio. Puedes combinarlo con otros parámetros, como **`-l`**, para ver información detallada.

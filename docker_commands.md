@@ -1,3 +1,7 @@
+# Comandos Docker 🐳
+
+Estos son algunos de los comandos más habituales que puedes necesitar a la hora de trabajar con Docker.
+
 1. **docker pull** 🚚  
    Descargar una imagen desde Docker Hub.
    ```bash
@@ -36,23 +40,25 @@
 11. **docker images** 🖼️  
    Listar las imágenes descargadas.  
    ```bash
-docker images
-```
+   docker images
+   ```
+
 13. **docker rmi** 🗑️  
    Eliminar una imagen.  
    ```bash
-docker rmi nombre_imagen:tag
-```
+   docker rmi nombre_imagen:tag
+   ```
 
 14. **docker exec** 🛠️  
    Ejecutar un comando dentro de un contenedor en ejecución.  
  
-  ```bash
-docker exec -it mi_contenedor comando
-```
+   ```bash
+   docker exec -it mi_contenedor comando
+   ```
 
 15. **docker logs** 📜  
-    Ver los registros de un contenedor.  
+   Ver los registros de un contenedor.  
+   
    ```bash
-docker logs mi_contenedor
-```
+   docker logs mi_contenedor
+   ```

@@ -5,6 +5,7 @@
 El comando **`ls`** se utiliza para listar los archivos y directorios dentro de un directorio. Puedes combinarlo con otros parámetros, como **`-l`**, para ver información detallada.
 
 - **`ls -l`**: Muestra el listado en columnas con detalles.
+- **`ls -lart`**: Muestra un listado detallado de todos los archivos y directorios en el directorio actual, incluyendo los ocultos, ordenados                   por tiempo de modificación en orden inverso.
 - **`ls /nombre-directorio`**: Lista el contenido del directorio especificado.
 
 ## 2. Comando **`cd`** 🗂️

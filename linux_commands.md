@@ -154,3 +154,20 @@ El comando **`wget`** descarga archivos desde URL o FTP.
 - **`wget https://url-ejemplo.com/archivo1.txt`**: Descarga archivo1.txt.
 - **`wget https://url-ejemplo.com/*.txt`**: Descarga todos los archivos .txt.
 
+## 26. Comando help ℹ️
+
+El comando **`help`** proporciona información de ayuda para los comandos internos del intérprete de comandos (shell) en sistemas basados en UNIX/Linux.
+
+- **`[comando] --help `**: Muestra la ayuda del comando indicado.
+
+```
+$man --help
+
+Usage: man [OPTION...] [SECTION] PAGE...
+
+  -C, --config-file=FILE     use this user configuration file
+  -d, --debug                emit debugging messages
+  -D, --default              reset all options to their default values
+      --warnings[=WARNINGS]  enable warnings from groff
+```
+

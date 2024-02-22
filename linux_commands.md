@@ -53,6 +53,7 @@ El comando **`rm`** se utiliza para borrar archivos.
 
 - **`rm archivo1.txt`**: Elimina el archivo indicado.
 - **`rm -r`**: Elimina todos los archivos y subdirectorios.
+- **`rm -rf`**: Elimina todos los archivos y subdirectorios sin solicitar confirmación. (force)
 
 ## 9. Comando **`cp`** 📋
 

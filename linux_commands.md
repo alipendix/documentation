@@ -69,12 +69,17 @@ El comando **`sudo`** otorga privilegios de SuperUsuario para tareas específica
 
 - **`sudo apt-get update`**: Actualiza los paquetes del sistema.
 
-## 11. Comando **`top`** 🔄
+## 11. Comando **`top`** y **`htop`** 🔄
 
 El comando **`top`** muestra procesos activos y consumo de recursos en tiempo real.
 
 - **`top`**: Muestra el listado de procesos.
 - **`top -d 20`**: Refresca cada 20 segundos.
+
+El comando **`htop`** proporciona una interfaz interactiva para visualizar procesos en ejecución y el consumo de recursos en tiempo real.
+
+- **`htop`**: Inicia la interfaz interactiva de `htop`, mostrando una lista de procesos con detalles sobre el uso de CPU, memoria y otros recursos.
+- **`htop -d 20`**: Inicia `htop` y refresca la información cada 20 segundos. Esta opción permite actualizar automáticamente la lista de procesos y estadísticas de recursos.
 
 ## 12. Comando **`man`** 📚
 

@@ -12,4 +12,4 @@ Este documento proporciona una guía concisa de comandos esenciales para la lín
 
 Este documento proporciona una guía concisa de comandos esenciales para trabajar con Docker en la línea de comandos. Ya sea que estés comenzando con Docker o necesites un recordatorio rápido, estos comandos te ayudarán a gestionar contenedores y realizar tareas básicas en un entorno Docker.
 
-📚 **Encuentra la lista completa de comandos en el siguiente enlace:** [Comandos Básicos de Docker](https://github.com/tu_usuario/tu_repositorio/blob/main/docker_commands.md)
+📚 **Encuentra la lista completa de comandos en el siguiente enlace:** [Comandos Básicos de Docker](https://github.com/alipendix/documentation/blob/main/docker_commands.md)

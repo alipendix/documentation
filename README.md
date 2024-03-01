@@ -20,6 +20,13 @@ Este documento proporciona una guía concisa de comandos esenciales para trabaja
 
 📚 **Encuentra la lista completa de comandos en el siguiente enlace:** [Comandos Básicos de Docker](https://github.com/alipendix/documentation/blob/main/docker_commands.md)
 
+# ☕️ Recursos Java
+
+¡Bienvenido a la sección de Java! Aquí encontrarás documentación y ejemplos básicos que te ayudarán tanto a recordar como a aprender conceptos clave de Java.
+
+📚 **Consulta el índice completo de la documentación en el siguiente enlace:** [Documentación de Java](https://github.com/alipendix/documentation/blob/main/java/README.md)
+
+
 # 📘 Recursos Adicionales
 
 Explore más recursos y referencias en el campo de la informática mediante la siguiente lista. Descubra páginas y creadores de contenido que ofrecen información valiosa para el desarrollo de software y temas relacionados.

@@ -18,8 +18,10 @@ Descubre el apasionante mundo de la tecnología a través de los fascinantes vid
 
 Embárcate en una emocionante aventura geek con los videos de Pelado Nerd. 🎮📚 Desde reseñas de videojuegos hasta análisis de películas, ¡prepárate para sumergirte en el fascinante universo nerd!
 
+# 🤓 Repositorio de Github interesante
+
 ## Creador Destacado 🌟
-** Recursos de formación (Profe Kube) **
+**Profe Kube**
 - [Github](https://github.com/IvanciniGT)
 
 Repositorio lleno de recursos de formación.

@@ -1,6 +1,3 @@
-Claro, aquí está el código en formato Markdown:
-
-```markdown
 # 🛠️ Herramientas 🛠️
 
 ## Instalación de un Entorno de Desarrollo Integrado (IDEs) 💻
@@ -29,6 +26,3 @@ Cuando te sumerges en un nuevo proyecto, una de las primeras tareas es configura
    - Ofrece una amplia gama de herramientas de desarrollo, incluyendo un potente editor de código, herramientas de refactorización y depuración integradas.
    - Aunque inicialmente se centró en el desarrollo Java, ahora ofrece soporte para una variedad de otros lenguajes de programación a través de plugins y extensiones.
    - [Sitio web oficial](https://www.eclipse.org/)
-```
-
-Puedes copiar y pegar este código en un archivo Markdown (.md) para usarlo en tu proyecto.

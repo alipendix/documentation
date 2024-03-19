@@ -2,6 +2,12 @@
 
 Este repositorio se propone ser una biblioteca de fundamentos para el desarrollo de software.
 
+# 🛠️ Primer día en un proyecto... ¿Qué herramientas necesito instalar o conocer?
+
+En esta sección, proporcionaré un listado de herramientas que suelen mencionarse en casi cualquier proyecto. El objetivo es ofrecer una lista de las más comunes junto con una breve explicación de su funcionalidad principal.
+
+📚 **Encuentra la lista completa de herramientas básicas:** [Herramientas](https://github.com/alipendix/documentation/blob/main/herramientas_list.md)
+
 # 🐧 Comandos Básicos de Linux
 
 Este documento proporciona una guía concisa de comandos esenciales para la línea de comandos de Linux. Ya sea que estés comenzando con Linux o necesites un recordatorio rápido, estos comandos te ayudarán a navegar y realizar tareas básicas en un entorno Linux.

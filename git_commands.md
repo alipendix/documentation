@@ -27,6 +27,17 @@
 
 3. **Verifica tu correo electrónico:**
    - Abre tu correo electrónico y sigue el enlace de verificación enviado por GitHub.
+  
+## Crear token de desarrollador en GitHub 🌐
+
+1. Ve a la página de configuración de tu cuenta de GitHub.
+2. En el menú de la izquierda, selecciona **"Developer settings"** (Configuración de desarrollador).
+3. Haz clic en **"Personal access tokens"** (Tokens de acceso personal).
+4. Luego, selecciona **"Generate new token"** (Generar nuevo token).
+5. Selecciona los alcances (scopes) necesarios para tu token, por ejemplo, acceso de lectura a repositorios públicos y privados o capacidad para crear gists.
+6. Haz clic en **"Generate token"** (Generar token).
+7. Una vez generado el token, cópialo y guárdalo en un lugar seguro. 📝 **No lo compartas públicamente ni lo incluyas en tu código fuente.**
+8. ¡Listo! Ahora puedes usar este token en tus aplicaciones o integraciones. 🚀
 
 ## Comandos básicos de Git ⚙️
 

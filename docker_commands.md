@@ -62,3 +62,11 @@ Estos son algunos de los comandos más habituales que puedes necesitar a la hora
    ```bash
    docker logs mi_contenedor
    ```
+
+16. **docker acceder un contendor con permisos para instalar** 📜  
+   Este comando permite acceder a un contenedor con permisos suficientes para instalar o actualizar.
+   
+   ```bash
+   docker exec -u 0 -it mi_contenedor /bin/bash
+   podman exec -u 0 -it mi_contenedor /bin/bash
+   ```
